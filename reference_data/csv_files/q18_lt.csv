@@ -1,0 +1,6 @@
+identifier,label
+notapplicable,Not Applicable
+notexpr,I believe my shape is not expressible in SHACL-core
+easier,It is easier to write the shape in SHACL-SPARQL
+other,Other
+no_answer,No answer

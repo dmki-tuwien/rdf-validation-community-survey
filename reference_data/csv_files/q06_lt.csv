@@ -1,0 +1,16 @@
+identifier,label
+biomed,Biomedical data
+business,Business data
+cultural,Cultural data
+educational,Educational data
+enterprise,Enterprise data
+finance,Financial data
+geographic,Geographic data
+government,Government data
+sensor,IoT/sensor data
+legal,Legal data
+manufacturing,Manufacturing data
+other,Other
+social,Social data
+software,Software data
+nondom,Not domain specific data

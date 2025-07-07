@@ -1,0 +1,7 @@
+identifier,label
+1,1 - Validation report is critical and requires significant enhancement
+2,2 - Validation report needs to be more informative
+3,3 - Current state of validation report is adequate
+4,4 - Current state of validation report is sufficient but too verbose
+5,5 - Current state of validation report is too detailed
+no_answer,No answer

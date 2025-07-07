@@ -1,0 +1,15 @@
+identifier,label
+maplib,maplib
+topbraid,TopBraid Composer/EDG
+pyshacl,PySHACL
+apache,Apache Jena SHACL
+rdf4j,RDF4J
+shaclengine,shacl-engine
+shacljs,shacl-js
+notapplicable,Not Applicable
+rudof,rudof
+other,Other
+stardog,Stardog SHACL
+rdfvalidateshacl,rdf-validate-shacl
+rdflib,RDFLib SHACL
+corese,Corese SHACL

@@ -1,0 +1,34 @@
+question_id,question_label
+Q01,What is your professional background?
+Q02,How many years of experience do you have with RDF validation/shape technologies?
+Q03,Do you work with different graph models or RDF standards? Please select all that apply.
+Q04,What RDF validation technologies do you have experience with? Please select all that apply.
+Q05,How frequently do you work with RDF shape languages?
+Q06,What are the main data domains you use SHACL or ShEx for? Please select all that apply.
+Q07,"In your projects, how do SHACL and ShEx affect data quality and consistency?"
+Q08,"If you had to choose one language for future projects, which would it be?"
+Q09,"When validating, how many distinct classes and properties does your data graph usually have?"
+Q10,"When validating, how large is your RDF graph usually?"
+Q11,"If you are a user of SHACL, which validation software/framework do you use?"
+Q12,"If you are a user of ShEx, which validation software/framework do you use?"
+Q13,What do you consider the main advantages of SHACL/ShEx in your work or projects? Please select all that apply.
+Q14,Have you encountered any limitations or challenges when using SHACL/ShEx?
+Q15,"Have you worked with evolving or dynamic RDF knowledge graphs? If yes, how do you adapt your validation processes?"
+Q16,How often do you use SHACL-core constraint components (for example sh:mincount etc)?
+Q17,Do you use SPARQL-based constraint components?
+Q18,"If you use SPARQL-based constraint components, please specify the reason:"
+Q19,Is the information provided by the validation report sufficient for your use cases?
+Q20,Which of the SHACL advanced features do you use?
+Q21,Which extensions of the SHACL standard do you wish for?
+Q22,How do you generate validating shapes SHACL/ShEx?
+Q23,Which tools or method do you use to extract/create validating shapes (SHACL/ShEx)?
+Q24,How many shapes do you usually generate?
+Q25,How large is your ontology usually in the context of shape extraction?
+Q26,How many distinct predicate types are present in your RDF graph usually?
+Q27,How large is your RDF graph usually  in the context of shape extraction?
+Q28, Do you generate shapes for the entire graph or only for some portions?
+Q29,What are the shortcomings you experienced when working with SHACL/ShEx? Please select all that apply.
+Q30,What features would improve the usefulness of validation reports? Please select all that apply.
+Q31,"If you have generated publicly available SHACL or ShEx documents, please leave us the references to these resources."
+Q32,Other feedback or clarifications.
+Q33,"If you would like to receive a copy of the findings of this survey, please leave your email address."

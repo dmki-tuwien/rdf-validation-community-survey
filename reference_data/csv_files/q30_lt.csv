@@ -1,0 +1,7 @@
+identifier,label
+userfriendly,User-friendly explanations of the validation result
+visual,(Exploratory) visual interface for validation results
+quality,Suggestions for resolving quality issues
+debugging,Integration with debugging tools
+other,Other
+no_answer,No answer

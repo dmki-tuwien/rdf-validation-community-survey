@@ -1,0 +1,6 @@
+identifier,label
+1to100k,1 to 100K triples
+100k1m,100K to 1M triples
+1m100m,1M to 100M triples
+morethan100m,More than 100M triples
+no_answer,No answer

@@ -1,0 +1,10 @@
+identifier,label
+nomajor,No major challenges
+uncleardocs,Documentation was unclear or insufficient
+specific,Lacked specific features or functionality
+performance,Difficulty in performance/scalability
+interoperability,Issues with interoperability
+other,Other
+usability,Usabililty
+implementation,Lack of implementations
+syntax,Cumbersome syntax
